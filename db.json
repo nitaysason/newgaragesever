@@ -1,0 +1,34 @@
+{
+  "carses": [
+    {
+      "munyfacture": "volvo",
+      "color": "red",
+      "model": "2023",
+      "id": 2
+    },
+    {
+      "munyfacture": "volvo",
+      "color": "red",
+      "model": "2023",
+      "id": 8
+    },
+    {
+      "munyfacture": "volvo",
+      "color": "red",
+      "model": "2023",
+      "id": 9
+    },
+    {
+      "munyfacture": "volvo",
+      "color": "red",
+      "model": "2023",
+      "id": 10
+    },
+    {
+      "munyfacture": "volvo",
+      "color": "red",
+      "model": "2023",
+      "id": 11
+    }
+  ]
+}
